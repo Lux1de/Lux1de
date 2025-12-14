@@ -21,6 +21,7 @@ Full-Stack Developer | Open Source Enthusiast | Clean Code Advocate
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [Zapret Roblox]([link](https://github.com/Lux1de/zapret-roblox)) | A working bypass of the Roblox lock in Russia | Batchfile |
 | [Moscow Duty Support]([link](https://github.com/ElochkaDev/MoscowGeed)) | An automated platform to support Russia's leaders | Python, Aiogram, Dotenv |
 | [Web Scan Guard]([link](https://github.com/ElochkaDev/WebScanGuard)) | Web Security Scanner is a professional tool for analyzing the security of web applications | Python, Requests, CustomTkinter |
 
