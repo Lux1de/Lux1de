@@ -4,7 +4,7 @@ Full-Stack Developer | Open Source Enthusiast | Clean Code Advocate
 
 👇 Ссылка на телеграмм для вопросов ниже
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lux1deDev)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lux1de)
 [![Email](https://img.shields.io/badge/Mail-1581bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luxide@yandex.ru)
 
 ---
